@@ -1,2 +1,2 @@
-# AIr-Quality-Prediction
+# Air-Quality-Prediction
 Data Science Learning
